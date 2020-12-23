@@ -8,3 +8,5 @@
 2020-12-21 [batchGradient](https://github.com/minhvvan/DeepLearning/blob/main/BatchGradient.ipynb)
 
 2020-12-22 [DualLayer](https://github.com/minhvvan/DeepLearning/blob/main/DualLayer.ipynb)
+
+2020-12-23 [Minibatch](https://github.com/minhvvan/DeepLearning/blob/main/MinibatchNetwork.ipynb)
