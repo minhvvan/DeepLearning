@@ -10,3 +10,5 @@
 2020-12-22 [DualLayer](https://github.com/minhvvan/DeepLearning/blob/main/DualLayer.ipynb)
 
 2020-12-23 [Minibatch](https://github.com/minhvvan/DeepLearning/blob/main/MinibatchNetwork.ipynb)
+
+2020-12-23 [MLPClassifier](https://github.com/minhvvan/DeepLearning/blob/main/MLPClassifier.ipynb)
