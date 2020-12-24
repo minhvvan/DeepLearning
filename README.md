@@ -12,3 +12,5 @@
 2020-12-23 [Minibatch](https://github.com/minhvvan/DeepLearning/blob/main/MinibatchNetwork.ipynb)
 
 2020-12-23 [MLPClassifier](https://github.com/minhvvan/DeepLearning/blob/main/MLPClassifier.ipynb)
+
+2020-12-24 [MultiClassNetwork](https://github.com/minhvvan/DeepLearning/blob/main/MultiClassNetwork.ipynb)
