@@ -20,3 +20,5 @@
 2020-12-26 [convolutionBasic](https://github.com/minhvvan/DeepLearning/blob/main/convBasic.ipynb)
 
 2020-12-27 [pooling](https://github.com/minhvvan/DeepLearning/blob/main/poolingBasic.ipynb)
+
+2020-12-27 [ReLu](https://github.com/minhvvan/DeepLearning/blob/main/ReLu.ipynb)
