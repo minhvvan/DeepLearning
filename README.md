@@ -24,3 +24,5 @@
 2020-12-27 [ReLu](https://github.com/minhvvan/DeepLearning/blob/main/ReLu.ipynb)
 
 2020-12-28 [Convolution](https://github.com/minhvvan/DeepLearning/blob/main/ConvolutionNetwork.ipynb)
+
+2020-12-28 [ConvBasic](https://github.com/minhvvan/DeepLearning/blob/main/ConvBasic.ipynb)
