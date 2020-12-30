@@ -28,3 +28,5 @@
 2020-12-28 [ConvBasic with keras](https://github.com/minhvvan/DeepLearning/blob/main/ConvBasic.ipynb)
 
 2020-12-30 [RecurrentNetwork](https://github.com/minhvvan/DeepLearning/blob/main/RecurrentNetwork.ipynb)
+
+2020-12-30 [SimpleRNN](https://github.com/minhvvan/DeepLearning/blob/main/SimpleRNN.ipynb)
