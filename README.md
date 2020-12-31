@@ -30,3 +30,5 @@
 2020-12-30 [RecurrentNetwork](https://github.com/minhvvan/DeepLearning/blob/main/RecurrentNetwork.ipynb)
 
 2020-12-30 [SimpleRNN](https://github.com/minhvvan/DeepLearning/blob/main/SimpleRNN.ipynb)
+
+2020-12-31 [LSTM](https://github.com/minhvvan/DeepLearning/blob/main/LSTM.ipynb)
